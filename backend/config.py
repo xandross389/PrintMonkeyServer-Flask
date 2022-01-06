@@ -1,5 +1,9 @@
+import logging
 from decouple import config
 import os
+
+LOG_LEVEL = logging.DEBUG
+LOG_FILE = config("LOG_FILE")
 
 
 class Config:
