@@ -1,0 +1,12 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 597-130-697
+INFO:werkzeug: * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 597-130-697
+INFO:werkzeug: * Running on http://127.0.0.1:3000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Jan/2022 17:25:58] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'e:\\Proyectos\\PrintMoneyServer\\backend\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
