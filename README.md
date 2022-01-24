@@ -1,3 +1,3 @@
 # PrintMonkeyServer
 
-Backend Server for PrintMonkeyMonitor agent
+Flask Backend Server for PrintMonkeyMonitor agent
